@@ -45,20 +45,19 @@ Finance Tracker is an app that tracks your expenses with categories, and have a 
 
 ### 2. Screen Archetypes
 
-- Login Screen 
+- [X] Login Screen 
     - User can log in 
-- Registration Screen
+- [] Registration Screen
     - User can create new account 
-- Stream
+- [] Home 
     - User can view their profile with their most recent expenses 
-- Expense 
+- [] Expense 
     - User can see a list of their expenses 
     - User can input new expense 
-
-- Goals 
+- [] Goals 
     - User can see a list of their goals 
     - User can input new goal 
-- Profile 
+- [] Profile 
     - User can see their profile 
     - User can edit their profile 
 
@@ -74,11 +73,11 @@ Finance Tracker is an app that tracks your expenses with categories, and have a 
 
 **Flow Navigation** (Screen to Screen)
 
-- Expense 
+- [] Expense 
     - Create new expense
-- Goals 
+- [] Goals 
     - Create new goal 
-- Profile 
+- [] Profile 
     - Edit their profile 
 
 ## Wireframes
@@ -90,6 +89,36 @@ Finance Tracker is an app that tracks your expenses with categories, and have a 
 [https://www.figma.com/file/XcgcGBkqF9P6cCEA52u6eW/Finance-Tracker-App?type=design&mode=design&t=NwnLT4s22XtZtLUF-1]
 
 ### [BONUS] Interactive Prototype
+
+## SPRINT PLANNING 
+
+### Print 1: Set up the project & create Log-in Screen 
+- [X] Finish brainstorming
+- [X] Set up the project
+- [X] Create Log-in page
+
+#### Reflection: 
+- It takes more time than expected to do Figma Wireframe. But it is very important to know what the app will look like.
+- Should keep things simple for now so that it's not too difficult to finish the project
+- Log-in page is not difficult but needs to learn how to build the registration screen
+
+### Print 2: Build the Home Screen & Expense Screen
+- [] Finish Home Screen
+- [] Finish Expense Screen
+- [] Finish Input New expense
+
+#### Reflection: 
+
+### Print 3: Build the Goal Screen
+- [] Finish Goal Screen
+- [] Finish Input New Goal
+
+#### Reflection: 
+
+### Print 4: Build the User Profile screen.
+- [] Finish User Profile Screen
+
+#### Reflection: 
 
 ## Schema 
 

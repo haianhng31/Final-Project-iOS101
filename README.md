@@ -47,17 +47,17 @@ Finance Tracker is an app that tracks your expenses with categories, and have a 
 
 - [X] Login Screen 
     - User can log in 
-- [] Registration Screen
+- [ ] Registration Screen
     - User can create new account 
-- [] Home 
+- [ ] Home 
     - User can view their profile with their most recent expenses 
-- [] Expense 
+- [ ] Expense 
     - User can see a list of their expenses 
     - User can input new expense 
-- [] Goals 
+- [ ] Goals 
     - User can see a list of their goals 
     - User can input new goal 
-- [] Profile 
+- [ ] Profile 
     - User can see their profile 
     - User can edit their profile 
 
@@ -73,11 +73,11 @@ Finance Tracker is an app that tracks your expenses with categories, and have a 
 
 **Flow Navigation** (Screen to Screen)
 
-- [] Expense 
+- [ ] Expense 
     - Create new expense
-- [] Goals 
+- [ ] Goals 
     - Create new goal 
-- [] Profile 
+- [ ] Profile 
     - Edit their profile 
 
 ## Wireframes

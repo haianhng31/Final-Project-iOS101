@@ -84,6 +84,7 @@ Finance Tracker is an app that tracks your expenses with categories, and have a 
 ## Wireframes
 
 ![](IMG_0075.HEIC)
+<img src="IMG_0075.HEIC" width=600>
 
 
 ### [BONUS] Digital Wireframes & Mockups

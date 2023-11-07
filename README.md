@@ -92,7 +92,7 @@ Finance Tracker is an app that tracks your expenses with categories, and have a 
 
 ## SPRINT PLANNING 
 
-### Print 1: Set up the project & create Log-in Screen 
+### Sprint 1: Set up the project & create Log-in Screen 
 - [X] Finish brainstorming
 - [X] Set up the project
 - [X] Create Log-in page
@@ -102,20 +102,20 @@ Finance Tracker is an app that tracks your expenses with categories, and have a 
 - Should keep things simple for now so that it's not too difficult to finish the project
 - Log-in page is not difficult but needs to learn how to build the registration screen
 
-### Print 2: Build the Home Screen & Expense Screen
+### Sprint 2: Build the Home Screen & Expense Screen
 - [] Finish Home Screen
 - [] Finish Expense Screen
 - [] Finish Input New expense
 
 #### Reflection: 
 
-### Print 3: Build the Goal Screen
+### Sprint 3: Build the Goal Screen
 - [] Finish Goal Screen
 - [] Finish Input New Goal
 
 #### Reflection: 
 
-### Print 4: Build the User Profile screen.
+### Sprint 4: Build the User Profile screen.
 - [] Finish User Profile Screen
 
 #### Reflection: 

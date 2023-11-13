@@ -1,8 +1,8 @@
 //
 //  ViewController.swift
-//  Finance Tracker
+//  Final Final
 //
-//  Created by Hai Anh on 04/11/2023.
+//  Created by Lenora Duong on 11/12/23.
 //
 
 import UIKit
@@ -39,4 +39,3 @@ class ViewController: UIViewController {
     }
     
 }
-

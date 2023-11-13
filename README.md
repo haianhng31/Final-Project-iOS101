@@ -47,11 +47,7 @@ Finance Tracker is an app that tracks your expenses with categories, and have a 
 
 - [X] Login Screen 
     - User can log in 
-- [ ] Registration Screen
-    - User can create new account 
-- [ ] Home 
-    - User can view their profile with their most recent expenses 
-- [ ] Expense 
+- [X] Expense 
     - User can see a list of their expenses 
     - User can input new expense 
 - [ ] Goals 
@@ -73,7 +69,7 @@ Finance Tracker is an app that tracks your expenses with categories, and have a 
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] Expense 
+- [X] Expense 
     - Create new expense
 - [ ] Goals 
     - Create new goal 
@@ -103,11 +99,14 @@ Finance Tracker is an app that tracks your expenses with categories, and have a 
 - Log-in page is not difficult but needs to learn how to build the registration screen
 
 ### Sprint 2: Build the Home Screen & Expense Screen
-- [] Finish Home Screen
-- [] Finish Expense Screen
-- [] Finish Input New expense
+- [X] Finish Expense Screen
+- [X] Finish Input New expense
 
 #### Reflection: 
+- It is not too difficult but it took a long time for me to remeber all the things we have learned and use all of them together. I had to go back to the labs and projects to see how the codes are.
+- It is also confusing to have all the different functions of an app. Usually in the lab or projects we only need to do a small section of the app. But now we have to build the whole app ourselves.
+- It look much longer time than expected.
+- However, I did finish the sprint goal for this week. 
 
 ### Sprint 3: Build the Goal Screen
 - [] Finish Goal Screen
